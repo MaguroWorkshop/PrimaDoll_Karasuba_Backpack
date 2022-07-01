@@ -5,4 +5,4 @@ Karasuba Backpack from Prima Doll anime. Files are sliced so it will fit an Ende
 
 What you will need are : N52 Magnets 10x4mm (8pcs), Hex M4x22 (6pcs), Hex M4x50 (4pcs), Hex M4x55 (2pcs), Hex M3x22 (6pcs), M4 Nuts (12pcs), M3 Nuts (6pcs)
 
-Superglue or epoxy to glue the parts together. Pretty much straight forward assembly. Print 3pcs of BottleCap and BottleBottom.
+Superglue or epoxy to glue the parts together. Pretty much straight forward assembly. Print 3pcs of BottleCap and BottleBottom. I use electrical conduit for the pipes. The hose is 20mm OD and 15mm ID.
